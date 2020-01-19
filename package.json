@@ -1,0 +1,19 @@
+{
+  "name": "whfmthify",
+  "version": "1.0.0",
+  "description": "Wait here for me to handle it for you",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/land007/node-whfmthify.git"
+  },
+  "author": "yiqiujia@hotmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/land007/node-whfmthify/issues"
+  },
+  "homepage": "https://github.com/land007/node-whfmthify#readme"
+}
