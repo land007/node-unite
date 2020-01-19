@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/land007/node-whfmthify/issues"
   },
-  "homepage": "https://github.com/land007/node-whfmthify#readme"
+  "homepage": "https://github.com/land007/node-whfmthify#readme",
+  "dependencies": {
+    "await-signal": "^0.1.2"
+  }
 }
