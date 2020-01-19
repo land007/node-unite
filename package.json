@@ -1,6 +1,6 @@
 {
   "name": "whfmthify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wait here for me to handle it for you",
   "main": "index.js",
   "scripts": {
